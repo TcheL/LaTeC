@@ -14,31 +14,41 @@ Tche LIU, seistche@gmail.com, USTC; [The MIT License](http://tchel.mit-license.o
 
 There are some symbols in the list of templates, which express some different properties of these templates:
 
-- :two_hearts: : an excellent template as I think
-- :sparkling_heart: : a wonderful template as I think
-- :hearts: : a good template as I think
-- :cn: : based on Chinese
-- :uk: : based on English
-- :fr: : based on French
-- :de: : based on German
-- :es: : based on Spanish
-- :jp: : based on Japanese
-- :kr: : based on Korean
-- :unlock: : be actively maintained
-- :lock: : no longer maintained
-- :end: : end to be listed
-- :white_check_mark: : succeeded to check
-- :x: : failed to check
-- :raised_hand: : to be checked
-- :warning: : some other warnings
-- :free: : nothing
+- Recommendation
+  + :two_hearts: : an excellent template as I think
+  + :sparkling_heart: : a wonderful template as I think
+  + :hearts: : a good template as I think
+
+- Language
+  + :cn: : based on Chinese
+  + :uk: : based on English
+  + :fr: : based on French
+  + :de: : based on German
+  + :es: : based on Spanish
+  + :jp: : based on Japanese
+  + :kr: : based on Korean
+
+- Status
+  + :unlock: : be actively maintained
+  + :lock: : no longer maintained
+  + :closed_lock_with_key: : maybe be maintained
+
+- Check
+  + :white_check_mark: : succeeded to check
+  + :x: : failed to check
+  + :raised_hand: : to be checked
+
+- Other
+  + :warning: : some other warnings
+  + :free: : nothing
+  + :end: : end to be listed
 
 ## Book
 
-| Template Name                           | Properties | Description | Mainpage                                                     | Download                                                     | Other                                                        |
-| --------------------------------------- | ---------- | ----------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Edición de textos científicos con LaTeX | :es:       | :free:      | [Edición de textos científicos con LaTeX](https://tecdigital.tec.ac.cr/revistamatematica/Libros/LaTeX/index.htm) | [Matemática, Educación e Internet](https://tecdigital.tec.ac.cr/revistamatematica/Libros/LaTeX/index.htm#PlantillaLibrosEjercicios) | need [psboxit](https://ctan.org/tex-archive/macros/latex209/contrib/misc/psboxit.sty), [local repo.](staged/Revista_matematica_ITCR_Formato_Libro_C) |
-| :end:                                   |            |             |                                                              |                                                              |                                                              |
+| Template Name                           | Properties                                                  | Description | Mainpage                                                     | Download                                                     | Other                                                        |
+| --------------------------------------- | ----------------------------------------------------------- | ----------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Edición de textos científicos con LaTeX | :two_hearts: :es: :closed_lock_with_key: :white_check_mark: | :free:      | [Edición de textos científicos con LaTeX](https://tecdigital.tec.ac.cr/revistamatematica/Libros/LaTeX/index.htm) | [Matemática, Educación e Internet](https://tecdigital.tec.ac.cr/revistamatematica/Libros/LaTeX/index.htm#PlantillaLibrosEjercicios) | need [psboxit](https://ctan.org/tex-archive/macros/latex209/contrib/misc/psboxit.sty), [local repo.](staged/Revista_matematica_ITCR_Formato_Libro_C) |
+| :end:                                   |                                                             |             |                                                              |                                                              |                                                              |
 
 ## Article
 
@@ -62,8 +72,8 @@ There are some symbols in the list of templates, which express some different pr
 
 ### Package
 
-| Package Name | Properties | Function                          | Mainpage                                     | Download                               |
-| ------------ | ---------- | --------------------------------- | -------------------------------------------- | -------------------------------------- |
-| tcolorbox    | :uk:       | highly customizable colored boxes | [GitHub](https://github.com/T-F-S/tcolorbox) | [CTAN](https://ctan.org/pkg/tcolorbox) |
-| :end:        |            |                                   |                                              |                                        |
+| Package Name | Properties    | Function                          | Mainpage                                     | Download                               |
+| ------------ | ------------- | --------------------------------- | -------------------------------------------- | -------------------------------------- |
+| tcolorbox    | :uk: :unlock: | highly customizable colored boxes | [GitHub](https://github.com/T-F-S/tcolorbox) | [CTAN](https://ctan.org/pkg/tcolorbox) |
+| :end:        |               |                                   |                                              |                                        |
 
