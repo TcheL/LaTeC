@@ -54,55 +54,56 @@ There are some symbols in the list of templates, which express some different pr
 
 ## Multi-class templates
 
-| Template Name                 | Properties                                                   | Classes                                                      | Description        | Mainpage/Download                                            | Other                                                        |
-| ----------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Typography for Academic Texts | :two_hearts: :uk: :de: :closed_lock_with_key: :white_check_mark: | :books: :page_facing_up: :bar_chart: :mortar_board: :newspaper: :bust_in_silhouette: | Academic and brief | [Mainpage](https://holgergerhardt.github.io/index.html), [GitHub](https://github.com/HolgerGerhardt/TeXTemplates) | pdflatex, need [FontAwesome font](http://mirrors.ctan.org/fonts/fontawesome/opentype/FontAwesome.otf), [one solved issue](https://github.com/HolgerGerhardt/TeXTemplates/issues/2) and [another](https://github.com/HolgerGerhardt/TeXTemplates/issues/3) |
-| :end:                         |                                                              |                                                              |                    |                                                              |                                                              |
+| Template Name                 | Properties                                                   | Classes                                                      | Description        | Mainpage/Download                                            | Compiler | Other                                                        |
+| ----------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------ | ------------------------------------------------------------ | -------- | ------------------------------------------------------------ |
+| Typography for Academic Texts | :two_hearts: :uk: :de: :closed_lock_with_key: :white_check_mark: | :books: :page_facing_up: :bar_chart: :mortar_board: :newspaper: :bust_in_silhouette: | Academic and brief | [Mainpage](https://holgergerhardt.github.io/index.html), [GitHub](https://github.com/HolgerGerhardt/TeXTemplates) | pdflatex | Need [FontAwesome font](http://mirrors.ctan.org/fonts/fontawesome/opentype/FontAwesome.otf), [one solved issue](https://github.com/HolgerGerhardt/TeXTemplates/issues/2) and [another](https://github.com/HolgerGerhardt/TeXTemplates/issues/3) |
+| :end:                         |                                                              |                                                              |                    |                                                              |          |                                                              |
 
 ## Single-class templates
 
 ### Book :books:
 
-| Template Name                         | Properties                                                   | Description | Mainpage/Download                                            | Other                                                        |
-| ------------------------------------- | ------------------------------------------------------------ | ----------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Revista matematica ITCR Formato Libro | :sparkling_heart: :es: :closed_lock_with_key: :white_check_mark: | :free:      | [Edición de textos científicos con LaTeX](https://tecdigital.tec.ac.cr/revistamatematica/Libros/LaTeX/index.htm) | pdflatex, need [psboxit](https://ctan.org/tex-archive/macros/latex209/contrib/misc/psboxit.sty), [local repo.](staged/Revista_matematica_ITCR_Formato_Libro_C) |
-| :end:                                 |                                                              |             |                                                              |                                                              |
+| Template Name                         | Properties                                              | Description | Mainpage/Download                                            | Compiler | Other                                                        |
+| ------------------------------------- | ------------------------------------------------------- | ----------- | ------------------------------------------------------------ | -------- | ------------------------------------------------------------ |
+| Revista matematica ITCR Formato Libro | :hearts: :es: :closed_lock_with_key: :white_check_mark: | :free:      | [Edición de textos científicos con LaTeX](https://tecdigital.tec.ac.cr/revistamatematica/Libros/LaTeX/index.htm) | pdflatex | Need [psboxit](https://ctan.org/tex-archive/macros/latex209/contrib/misc/psboxit.sty), [local repo.](staged/Revista_matematica_ITCR_Formato_Libro_C) |
+| :end:                                 |                                                         |             |                                                              |          |                                                              |
 
 ### Article :page_facing_up:
 
-| Template Name | Properties | Description | Mainpage/Download | Other |
-| ------------- | ---------- | ----------- | ----------------- | ----- |
-| :end:         |            |             |                   |       |
+| Template Name | Properties | Description | Mainpage/Download | Compiler | Other |
+| ------------- | ---------- | ----------- | ----------------- | -------- | ----- |
+| :end:         |            |             |                   |          |       |
 
 ### Report :page_with_curl:
 
-| Template Name | Properties | Description | Mainpage/Download | Other |
-| ------------- | ---------- | ----------- | ----------------- | ----- |
-| :end:         |            |             |                   |       |
+| Template Name | Properties | Description | Mainpage/Download | Compiler | Other |
+| ------------- | ---------- | ----------- | ----------------- | -------- | ----- |
+| :end:         |            |             |                   |          |       |
 
 ### Beamer :bar_chart:
 
-| Template Name | Properties | Description | Mainpage/Download | Other |
-| ------------- | ---------- | ----------- | ----------------- | ----- |
-| :end:         |            |             |                   |       |
+| Template Name | Properties | Description | Mainpage/Download | Compiler | Other |
+| ------------- | ---------- | ----------- | ----------------- | -------- | ----- |
+| :end:         |            |             |                   |          |       |
 
 ### Thesis :mortar_board:
 
-| Template Name | Properties | Description | Mainpage/Download | Other |
-| ------------- | ---------- | ----------- | ----------------- | ----- |
-| :end:         |            |             |                   |       |
+| Template Name | Properties | Description | Mainpage/Download | Compiler | Other |
+| ------------- | ---------- | ----------- | ----------------- | -------- | ----- |
+| :end:         |            |             |                   |          |       |
 
 ### Poster :newspaper:
 
-| Template Name | Properties | Description | Mainpage/Download | Other |
-| ------------- | ---------- | ----------- | ----------------- | ----- |
-| :end:         |            |             |                   |       |
+| Template Name | Properties                                         | Description                        | Mainpage/Download                                            | Compiler | Other    |
+| ------------- | -------------------------------------------------- | ---------------------------------- | ------------------------------------------------------------ | -------- | -------- |
+| Gemini        | :sparkling_heart: :uk: :unlock: :white_check_mark: | Minimal, good out of the box, easy | [Gemini](https://www.anishathalye.com/2018/07/19/gemini-a-modern-beamerposter-theme/), [GitHub](https://github.com/anishathalye/gemini) | lualatex | No  logo |
+| :end:         |                                                    |                                    |                                                              |          |          |
 
 ### CV :bust_in_silhouette:
 
-| Template Name | Properties | Description | Mainpage/Download | Other |
-| ------------- | ---------- | ----------- | ----------------- | ----- |
-| :end:         |            |             |                   |       |
+| Template Name | Properties | Description | Mainpage/Download | Compiler | Other |
+| ------------- | ---------- | ----------- | ----------------- | -------- | ----- |
+| :end:         |            |             |                   |          |       |
 
 ## Other
 
