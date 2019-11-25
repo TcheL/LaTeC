@@ -15,7 +15,7 @@ Tche LIU, seistche@gmail.com, USTC; [The MIT License](http://tchel.mit-license.o
 There are some symbols in the list of templates, which express some different properties of these templates:
 
 - Documentclass
-  + :bookmark: : book
+  + :books: : book
   + :page_facing_up: : article
   + :page_with_curl: : report
   + :bar_chart: : beamer
@@ -56,12 +56,12 @@ There are some symbols in the list of templates, which express some different pr
 
 | Template Name                 | Properties                                                   | Classes                                                      | Description        | Mainpage/Download                                            | Other                                                        |
 | ----------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Typography for Academic Texts | :two_hearts: :uk: :de: :closed_lock_with_key: :white_check_mark: | :bookmark: :page_facing_up: :bar_chart: :mortar_board: :newspaper: :bust_in_silhouette: | Academic and brief | [Mainpage](https://holgergerhardt.github.io/index.html), [GitHub](https://github.com/HolgerGerhardt/TeXTemplates) | pdflatex, need [FontAwesome font](http://mirrors.ctan.org/fonts/fontawesome/opentype/FontAwesome.otf), [one solved issue](https://github.com/HolgerGerhardt/TeXTemplates/issues/2) and [another](https://github.com/HolgerGerhardt/TeXTemplates/issues/3) |
+| Typography for Academic Texts | :two_hearts: :uk: :de: :closed_lock_with_key: :white_check_mark: | :books: :page_facing_up: :bar_chart: :mortar_board: :newspaper: :bust_in_silhouette: | Academic and brief | [Mainpage](https://holgergerhardt.github.io/index.html), [GitHub](https://github.com/HolgerGerhardt/TeXTemplates) | pdflatex, need [FontAwesome font](http://mirrors.ctan.org/fonts/fontawesome/opentype/FontAwesome.otf), [one solved issue](https://github.com/HolgerGerhardt/TeXTemplates/issues/2) and [another](https://github.com/HolgerGerhardt/TeXTemplates/issues/3) |
 | :end:                         |                                                              |                                                              |                    |                                                              |                                                              |
 
 ## Single-class templates
 
-### Book :bookmark:
+### Book :books:
 
 | Template Name                         | Properties                                                   | Description | Mainpage/Download                                            | Other                                                        |
 | ------------------------------------- | ------------------------------------------------------------ | ----------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
