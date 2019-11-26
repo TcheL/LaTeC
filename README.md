@@ -26,7 +26,7 @@ There are some symbols in the list of templates, which express some different pr
 - Recommendation
   + :two_hearts: : an excellent template as I think
   + :sparkling_heart: : a wonderful template as I think
-  + :hearts: : a good template as I think
+  + :heart: : a good template as I think
 
 - Language
   + :cn: : based on Chinese
@@ -63,10 +63,11 @@ There are some symbols in the list of templates, which express some different pr
 
 ### Book :books:
 
-| Template Name                         | Properties                                              | Description | Mainpage/Download                                            | Compiler | Other                                                        |
-| ------------------------------------- | ------------------------------------------------------- | ----------- | ------------------------------------------------------------ | -------- | ------------------------------------------------------------ |
-| Revista matematica ITCR Formato Libro | :hearts: :es: :closed_lock_with_key: :white_check_mark: | :free:      | [Edición de textos científicos con LaTeX](https://tecdigital.tec.ac.cr/revistamatematica/Libros/LaTeX/index.htm) | pdflatex | Need [psboxit](https://ctan.org/tex-archive/macros/latex209/contrib/misc/psboxit.sty), [local repo.](staged/Revista_matematica_ITCR_Formato_Libro_C) |
-| :end:                                 |                                                         |             |                                                              |          |                                                              |
+| Template Name                         | Properties                                             | Description | Mainpage/Download                                            | Compiler | Other                                                        |
+| ------------------------------------- | ------------------------------------------------------ | ----------- | ------------------------------------------------------------ | -------- | ------------------------------------------------------------ |
+| Revista matematica ITCR Formato Libro | :heart: :es: :closed_lock_with_key: :white_check_mark: | :free:      | [Edición de textos científicos con LaTeX](https://tecdigital.tec.ac.cr/revistamatematica/Libros/LaTeX/index.htm) | pdflatex | Need [psboxit](https://ctan.org/tex-archive/macros/latex209/contrib/misc/psboxit.sty), [local repo.](staged/Revista_matematica_ITCR_Formato_Libro_C) |
+| ElegantBook                           | :two_hearts: :cn: :uk: :unlock: :white_check_mark:     | Elegant     | [Mainpage](https://elegantlatex.org/cn/elegantbook/), [GitHub](https://github.com/ElegantLaTeX/ElegantBook), [Download](https://github.com/ElegantLaTeX/ElegantBook/releases/latest) | xelatex  | :free:                                                       |
+| :end:                                 |                                                        |             |                                                              |          |                                                              |
 
 ### Article :page_facing_up:
 
@@ -94,16 +95,17 @@ There are some symbols in the list of templates, which express some different pr
 
 ### Poster :newspaper:
 
-| Template Name | Properties                                         | Description                        | Mainpage/Download                                            | Compiler | Other    |
-| ------------- | -------------------------------------------------- | ---------------------------------- | ------------------------------------------------------------ | -------- | -------- |
-| Gemini        | :sparkling_heart: :uk: :unlock: :white_check_mark: | Minimal, good out of the box, easy | [Gemini](https://www.anishathalye.com/2018/07/19/gemini-a-modern-beamerposter-theme/), [GitHub](https://github.com/anishathalye/gemini) | lualatex | No  logo |
-| :end:         |                                                    |                                    |                                                              |          |          |
+| Template Name | Properties                                         | Description                        | Mainpage/Download                                            | Compiler | Other              |
+| ------------- | -------------------------------------------------- | ---------------------------------- | ------------------------------------------------------------ | -------- | ------------------ |
+| Gemini        | :sparkling_heart: :uk: :unlock: :white_check_mark: | Minimal, good out of the box, easy | [Gemini](https://www.anishathalye.com/2018/07/19/gemini-a-modern-beamerposter-theme/), [GitHub](https://github.com/anishathalye/gemini) | lualatex | No institute logo |
+| :end:         |                                                    |                                    |                                                              |          |                    |
 
 ### CV :bust_in_silhouette:
 
-| Template Name | Properties | Description | Mainpage/Download | Compiler | Other |
-| ------------- | ---------- | ----------- | ----------------- | -------- | ----- |
-| :end:         |            |             |                   |          |       |
+| Template Name | Properties                               | Description | Mainpage/Download                                   | Compiler | Other  |
+| ------------- | ---------------------------------------- | ----------- | --------------------------------------------------- | -------- | ------ |
+| Hipster-CV    | :heart: :uk: :unlock: :white_check_mark: | Colorful    | [GitHub](https://github.com/latex-ninja/hipster-cv) | xelatex  | :free: |
+| :end:         |                                          |             |                                                     |          |        |
 
 ## Other
 
