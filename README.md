@@ -4,7 +4,7 @@ LaTeX Template Collection
 
 ## Preface
 
-The repository is used to collect the LaTeX templates which are so elegant and excellent that I think I should not miss them.
+The repository is used to collect the LaTeX templates which are so elegant and excellent that I think I should not miss them. There are some screenshots of the listed templates in [the directory](examples).
 
 ### Author & License
 
@@ -50,13 +50,13 @@ There are some symbols in the list of templates, which express some different pr
 - Other
   + :warning: : some other warnings
   + :free: : nothing
-  + :end: : end to be listed
+  + :end: : the end of list
 
 ## Multi-class templates
 
 | Template Name                 | Properties                                                   | Classes                                                      | Description        | Mainpage/Download                                            | Compiler | Other                                                        |
 | ----------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------ | ------------------------------------------------------------ | -------- | ------------------------------------------------------------ |
-| Typography for Academic Texts | :two_hearts: :uk: :de: :closed_lock_with_key: :white_check_mark: | :books: :page_facing_up: :bar_chart: :mortar_board: :newspaper: :bust_in_silhouette: | Academic and brief | [Mainpage](https://holgergerhardt.github.io/index.html), [GitHub](https://github.com/HolgerGerhardt/TeXTemplates) | pdflatex | Need [FontAwesome font](http://mirrors.ctan.org/fonts/fontawesome/opentype/FontAwesome.otf), [one solved issue](https://github.com/HolgerGerhardt/TeXTemplates/issues/2) and [another](https://github.com/HolgerGerhardt/TeXTemplates/issues/3) |
+| Typography for Academic Texts | :two_hearts: :uk: :de: :closed_lock_with_key: :white_check_mark: | :books: :page_facing_up: :bar_chart: :mortar_board: :newspaper: :bust_in_silhouette: | Academic and brief | [Mainpage](https://holgergerhardt.github.io/index.html), [GitHub](https://github.com/HolgerGerhardt/TeXTemplates) | pdflatex | Need [FontAwesome font](http://mirrors.ctan.org/fonts/fontawesome/opentype/FontAwesome.otf) |
 | :end:                         |                                                              |                                                              |                    |                                                              |          |                                                              |
 
 ## Single-class templates
@@ -102,10 +102,11 @@ There are some symbols in the list of templates, which express some different pr
 
 ### CV :bust_in_silhouette:
 
-| Template Name | Properties                               | Description | Mainpage/Download                                   | Compiler | Other  |
-| ------------- | ---------------------------------------- | ----------- | --------------------------------------------------- | -------- | ------ |
-| Hipster-CV    | :heart: :uk: :unlock: :white_check_mark: | Colorful    | [GitHub](https://github.com/latex-ninja/hipster-cv) | xelatex  | :free: |
-| :end:         |                                          |             |                                                     |          |        |
+| Template Name | Properties                                         | Description | Mainpage/Download                                   | Compiler | Other  |
+| ------------- | -------------------------------------------------- | ----------- | --------------------------------------------------- | -------- | ------ |
+| Hipster-CV    | :heart: :uk: :unlock: :white_check_mark:           | Colorful    | [GitHub](https://github.com/latex-ninja/hipster-cv) | xelatex  | :free: |
+| Alex Boboc CV | :sparkling_heart: :uk: :unlock: :white_check_mark: | Geek        | [GitHub](https://github.com/alexboboc/AlexBobocCV)  | pdflaex  | :free: |
+| :end:         |                                                    |             |                                                     |          |        |
 
 ## Other
 
