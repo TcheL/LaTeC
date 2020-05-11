@@ -104,11 +104,12 @@ There are some symbols in the list of templates, which express some different pr
 
 ### CV :bust_in_silhouette:
 
-| Template Name                               | Properties                                         | Description | Mainpage/Download                                   | Compiler | Other  |
-| ------------------------------------------- | -------------------------------------------------- | ----------- | --------------------------------------------------- | -------- | ------ |
-| [Hipster-CV](examples/Hipster-CV.png)       | :heart: :uk: :unlock: :white_check_mark:           | Colorful    | [GitHub](https://github.com/latex-ninja/hipster-cv) | xelatex  | :free: |
-| [Alex Boboc CV](examples/Alex-Boboc-CV.png) | :sparkling_heart: :uk: :unlock: :white_check_mark: | Geek        | [GitHub](https://github.com/alexboboc/AlexBobocCV)  | pdflaex  | :free: |
-| :end:                                       |                                                    |             |                                                     |          |        |
+| Template Name                               | Properties                                         | Description | Mainpage/Download                                            | Compiler | Other  |
+| ------------------------------------------- | -------------------------------------------------- | ----------- | ------------------------------------------------------------ | -------- | ------ |
+| [Hipster-CV](examples/Hipster-CV.png)       | :heart: :uk: :unlock: :white_check_mark:           | Colorful    | [GitHub](https://github.com/latex-ninja/hipster-cv)          | xelatex  | :free: |
+| [Alex Boboc CV](examples/Alex-Boboc-CV.png) | :sparkling_heart: :uk: :unlock: :white_check_mark: | Geek        | [GitHub](https://github.com/alexboboc/AlexBobocCV)           | pdflaex  | :free: |
+| [ModernFancyCV](examples/ModernFancyCV.png) | :heart: :uk: :lock: :white_check_mark:             | Fancy       | [Overleaf](https://www.overleaf.com/latex/templates/modernfancycv/bkjntytgpcmq) | xelatex  | :free: |
+| :end:                                       |                                                    |             |                                                              |          |        |
 
 ## Other
 
