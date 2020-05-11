@@ -83,10 +83,11 @@ There are some symbols in the list of templates, which express some different pr
 
 ### Beamer :bar_chart:
 
-| Template Name                                             | Properties                                       | Description | Mainpage/Download                                            | Compiler | Other  |
-| --------------------------------------------------------- | ------------------------------------------------ | ----------- | ------------------------------------------------------------ | -------- | ------ |
-| [IMPA Beamer Template](examples/IMPA-Beamer-Template.png) | :sparkling_heart: :uk: :lock: :white_check_mark: | Brief       | [Overleaf](https://www.overleaf.com/latex/templates/impa-beamer-template/jbkhtxsdnqtb) | pdflatex | :free: |
-| :end:                                                     |                                                  |             |                                                              |          |        |
+| Template Name                                             | Properties                                       | Description         | Mainpage/Download                                            | Compiler | Other  |
+| --------------------------------------------------------- | ------------------------------------------------ | ------------------- | ------------------------------------------------------------ | -------- | ------ |
+| [IMPA Beamer Template](examples/IMPA-Beamer-Template.png) | :sparkling_heart: :uk: :lock: :white_check_mark: | Brief               | [Overleaf](https://www.overleaf.com/latex/templates/impa-beamer-template/jbkhtxsdnqtb) | pdflatex | :free: |
+| [DTU Beamer](examples/DTU-Beamer.png)                     | :sparkling_heart: :uk: :lock: :white_check_mark: | Brief, enthusiastic | [Overleaf](https://www.overleaf.com/project/5eb92b9c25e03f000111e229), [Gitlab](https://gitlab.gbar.dtu.dk/latex/dtutemplates/tree/master/templates/Beamer) | pdflatex | :free: |
+| :end:                                                     |                                                  |                     |                                                              |          |        |
 
 ### Thesis :mortar_board:
 
