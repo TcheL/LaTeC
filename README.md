@@ -88,6 +88,7 @@ There are some symbols in the list of templates, which express some different pr
 | [IMPA Beamer Template](examples/IMPA-Beamer-Template.png)    | :heart: :uk: :lock: :white_check_mark:   | Brief               | [Overleaf](https://www.overleaf.com/latex/templates/impa-beamer-template/jbkhtxsdnqtb) | pdflatex | :free: |
 | [DTU Beamer](examples/DTU-Beamer.png)                        | :heart: :uk: :lock: :white_check_mark:   | Brief, enthusiastic | [Overleaf](https://www.overleaf.com/project/5eb92b9c25e03f000111e229), [GitLab](https://gitlab.gbar.dtu.dk/latex/dtutemplates/tree/master/templates/Beamer) | pdflatex | :free: |
 | [Beamer theme Elegance for LuaLaTeX](examples/Beamer-theme-Elegance-for-LuaLaTeX.png) | :heart: :uk: :unlock: :white_check_mark: | Colorful            | [GitHub](https://github.com/ivan-cukic/latex-beamer-theme-elegance) | lualatex | :free: |
+| [UFGTeX Presentation](examples/UFGTeX-Presentation.png)      | :heart: :uk: :unlock: :white_check_mark: | Flexible, vivid     | [GitHub](https://github.com/deuslirio/UFGTeX-Presentation)   | pdflatex | :free: |
 | :end:                                                        |                                          |                     |                                                              |          |        |
 
 ### Thesis :mortar_board:
