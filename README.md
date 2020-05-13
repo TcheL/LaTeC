@@ -89,6 +89,7 @@ There are some symbols in the list of templates, which express some different pr
 | [DTU Beamer](examples/DTU-Beamer.png)                        | :heart: :uk: :lock: :white_check_mark:   | Brief, enthusiastic | [Overleaf](https://www.overleaf.com/project/5eb92b9c25e03f000111e229), [GitLab](https://gitlab.gbar.dtu.dk/latex/dtutemplates/tree/master/templates/Beamer) | pdflatex | :free: |
 | [Beamer theme Elegance for LuaLaTeX](examples/Beamer-theme-Elegance-for-LuaLaTeX.png) | :heart: :uk: :unlock: :white_check_mark: | Colorful            | [GitHub](https://github.com/ivan-cukic/latex-beamer-theme-elegance) | lualatex | :free: |
 | [UFGTeX Presentation](examples/UFGTeX-Presentation.png)      | :heart: :uk: :unlock: :white_check_mark: | Flexible, vivid     | [GitHub](https://github.com/deuslirio/UFGTeX-Presentation)   | pdflatex | :free: |
+| [Flux beamer](examples/Flux-beamer.png)                      | :heart: :uk: :unlock: :white_check_mark: | Modern, brief       | [GitHub](https://github.com/pvanberg/flux-beamer)            | pdflatex | :free: |
 | :end:                                                        |                                          |                     |                                                              |          |        |
 
 ### Thesis :mortar_board:
@@ -106,13 +107,13 @@ There are some symbols in the list of templates, which express some different pr
 
 ### CV :bust_in_silhouette:
 
-| Template Name                               | Properties                                         | Description    | Mainpage/Download                                            | Compiler | Other  |
-| ------------------------------------------- | -------------------------------------------------- | -------------- | ------------------------------------------------------------ | -------- | ------ |
-| [Hipster-CV](examples/Hipster-CV.png)       | :heart: :uk: :unlock: :white_check_mark:           | Colorful       | [GitHub](https://github.com/latex-ninja/hipster-cv)          | xelatex  | :free: |
-| [Alex Boboc CV](examples/Alex-Boboc-CV.png) | :sparkling_heart: :uk: :unlock: :white_check_mark: | Geek           | [GitHub](https://github.com/alexboboc/AlexBobocCV)           | pdflaex  | :free: |
-| [ModernFancyCV](examples/ModernFancyCV.png) | :heart: :uk: :lock: :white_check_mark:             | Fancy          | [Overleaf](https://www.overleaf.com/latex/templates/modernfancycv/bkjntytgpcmq) | xelatex  | :free: |
-| [Pastel-CV](examples/Pastel-CV.png)         | :heart: :uk: :unlock: :white_check_mark:           | Simple, pastel | [GitHub](https://github.com/latex-ninja/pastel-cv)           | pdflatex | :free: |
-| :end:                                       |                                                    |                |                                                              |          |        |
+| Template Name                               | Properties                                         | Description   | Mainpage/Download                                            | Compiler | Other  |
+| ------------------------------------------- | -------------------------------------------------- | ------------- | ------------------------------------------------------------ | -------- | ------ |
+| [Hipster-CV](examples/Hipster-CV.png)       | :heart: :uk: :unlock: :white_check_mark:           | Colorful      | [GitHub](https://github.com/latex-ninja/hipster-cv)          | xelatex  | :free: |
+| [Alex Boboc CV](examples/Alex-Boboc-CV.png) | :sparkling_heart: :uk: :unlock: :white_check_mark: | Geek          | [GitHub](https://github.com/alexboboc/AlexBobocCV)           | pdflaex  | :free: |
+| [ModernFancyCV](examples/ModernFancyCV.png) | :heart: :uk: :lock: :white_check_mark:             | Fancy         | [Overleaf](https://www.overleaf.com/latex/templates/modernfancycv/bkjntytgpcmq) | xelatex  | :free: |
+| [Pastel-CV](examples/Pastel-CV.png)         | :heart: :uk: :unlock: :white_check_mark:           | Brief, pastel | [GitHub](https://github.com/latex-ninja/pastel-cv)           | pdflatex | :free: |
+| :end:                                       |                                                    |               |                                                              |          |        |
 
 ## Other
 
@@ -120,6 +121,6 @@ There are some symbols in the list of templates, which express some different pr
 
 | Package Name | Properties    | Function                          | Mainpage/Download                                            |
 | ------------ | ------------- | --------------------------------- | ------------------------------------------------------------ |
-| tcolorbox    | :uk: :unlock: | highly customizable colored boxes | [GitHub](https://github.com/T-F-S/tcolorbox), [CTAN](https://ctan.org/pkg/tcolorbox) |
+| tcolorbox    | :uk: :unlock: | Highly customizable colored boxes | [GitHub](https://github.com/T-F-S/tcolorbox), [CTAN](https://ctan.org/pkg/tcolorbox) |
 | :end:        |               |                                   |                                                              |
 
